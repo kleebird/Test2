@@ -1,17 +1,7 @@
-Asdf
-
-asdfasd
-
-Asdasdf
-
-
-
-really
-
-Asdfasd
-
-
 # Licorice partner integration - External Jan 2024
+
+Links to sections
+####same-browser-window
 
 
 This document explains the two ways of integrating with Licorice to your website or app. The first one (and the most convenient) is to use the "@licoriceone/partner-lib" client-side library [available on npm](https://www.npmjs.com/package/@licoriceone/partner-lib). The second way is to use the API to implement the auth and data-fetching functionality by your own. The latter is meant for in-app integrations or server-to-server.
