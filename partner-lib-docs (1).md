@@ -9,8 +9,8 @@ The client-side library is very tiny (1 kB) and is the most common way of integr
 
 Please email Roland@licorice.solutions
 
-##Links to sections
-[Go to Real Cool Heading section](#same-browser-window)
+## Links to sections
+[Go to Real Cool Heading section](#same-browser-window) 
 [Go to Real Cool Heading section](#same-browser-window-1)
 
 
